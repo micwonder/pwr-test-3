@@ -1,0 +1,12 @@
+[
+  {"accountName": "config", "seed": "234cd5ec-e350-4438-8d88-b854e8f89f24", "address": "3MQPvNJ393pB7xh8VsXeeBSXa3gtJAHAEpJ"},
+  {"accountName": "voting", "seed": "99245122-5f36-41a1-acec-4076bbbaecb0", "address": "3M4jcNftSvtz3Tf1fhfyaHu2R6SgK9HtZAr"},
+  {"accountName": "minter", "seed": "7af1ee98-f2ee-4777-87d9-9cee3a7c855e", "address": "3MFvijG4xZUJwQJWntSvqG1WdxB2M9mfgnf"},
+  {"accountName": "airdrop0", "seed": "e3e7d118-6596-4a18-9ee3-d175f075ee8b", "address": "3MFRqRtHY4YbJwi1P774b9DhUSzjzTxojXi"},
+  {"accountName": "user1", "seed": "98133bd5-ceda-4755-92e0-2f5d6dbcc17d", "address": "3MFh23G3bfheVJkth9egK35hoRHagigYwY9"},
+  {"accountName": "user2", "seed": "5f9dcb2c-c277-4626-9dfa-4cf642b225a8", "address": "3MPdwbuu9a5W8yg7ikHsut8iE2kze3Zo471"},
+  {"accountName": "user3", "seed": "7c89890e-05eb-462d-90e9-4f92402af1ad", "address": "3MPEhQaGgRKFAuBTE5ngg35MdHsnLe3yYRS"},
+  {"accountName": "user4", "seed": "5501de4f-2e37-4d41-b7be-530d91f577a4", "address": "3MKxKQbeRcuR69BUKwS98apLtoKcaMULtMT"},
+  {"tokenName": "power", "id": "GsWLsMENKEXi9aj27tsL9QQVqvynRNnW9Caw1Nw9hNiL"},
+  {"txId": "oJdfA73KpCFeepTH1pzUnU8bz9DNNwHBdzhiJ7aFJ6F"}
+]

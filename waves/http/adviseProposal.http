@@ -1,0 +1,4 @@
+POST {{$dotenv NEXT_PUBLIC_PWRDAO_NODE_URL}}/utils/script/evaluate/{{$dotenv NEXT_PUBLIC_PWRDAO_VOTING_ADDRESS}}
+Content-Type: application/json
+
+{"expr":"adviseProposal(\"{{$dotenv TEST_PROPOSAL_ID}}\")"}
