@@ -1,8 +1,10 @@
 # Mantine UI Next.js test
 
-Start yourself a branch or fork this repo.
+### Start yourself a branch or fork this repo.
 
-Fill the profile page with a card component filled with placeholder data.
+### Add test card component filled with placeholder data to the profile page.
+
+### When finished submit a pull request.
 
 Install dependencies
 ```bash
@@ -19,4 +21,4 @@ Build the project
 yarn build
 ```
 
-When finished submit a pull request
+
